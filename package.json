@@ -1,0 +1,15 @@
+{
+    "name": "OpenUI5",
+    "title": "OpenUI5",
+    "description": "Add first class support for SAP OpenUI5 (including syntax highlighting).",
+    "homepage": "https://github.com/sbcd90/brackets-openui5",
+    "author": "Subhobrata Dey (https://github.com/sbcd90)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/sbcd90/brackets-openui5.git"
+    },
+    "version": "1.0.0"
